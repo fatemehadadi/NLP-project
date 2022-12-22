@@ -1,6 +1,6 @@
 # Replication Study of Self-Attentive Classification-Based Anomaly Detection in Unstructured Logs
  
- This repository contains the replicated implementation of [Self-attentive classification-based anomaly detection in unstructured logs](https://ieeexplore.ieee.org/document/9338283).
+ This repository contains the replicated implementation of [Self-attentive classification-based anomaly detection in unstructured logs](https://ieeexplore.ieee.org/document/9338283) for NLP class of fall 2022.
  
   Logsy is a classification-based method to learn log representations that allow to distinguish between normal system log data and anomaly samples from auxiliary log datasets, easily accessible via the internet. The idea behind such an approach to anomaly detection is that the auxiliary dataset is sufficiently informative to enhance the representation of the normal data, yet diverse to regularize against overfitting and improve generalization. We replicate the study of LogSy. Taking advantage of semantic-aware classification of log sequences, a sequence of log messages, LogSy outperforms its baselines, PCA and DeepLog. We replicate LogSy experiments with its original publicly available data sets and add an analysis of detection time. Our results confirm the superior performance of LogSy and its fast detection compared to its baselines. We also provide practical suggestions and possible future works.
  
