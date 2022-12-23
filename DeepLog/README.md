@@ -11,14 +11,14 @@ $ pip install -r requirements.txt
 ```
 $ python data_set_processing.py
 ```
-2. move the precessed data sets, small version of them, inside the small_code folder. 
-3. convert the data set file to csv file by the following command
+4. move the precessed data sets, small version of them, inside the small_code folder. 
+5. convert the data set file to csv file by the following command
 ```
 $ python data_text_to_csv.py
 ```
 run the above command three times, each time targetfile variable inside the file is the name of one of the three datasets. 
 
-4. run the main file
+6. run the main file
 ``` shell script
 $ python main.py
 ```
