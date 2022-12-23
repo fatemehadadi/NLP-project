@@ -11,8 +11,8 @@ $ pip install -r requirements.txt
 ```
 $ python data_set_processing.py
 ```
-2. move the precessed data sets, small version of them, inside the small_code folder. 
-3. run the main file
+4. move the precessed data sets, small version of them, inside the "small_code" folder. 
+5. run the main file
 ``` shell script
 $ python main.py
 ```
